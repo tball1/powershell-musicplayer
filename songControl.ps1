@@ -16,7 +16,7 @@
 	#NOTE: This searches your users music folder
 	#only put the file name an extension
 
-	#songControl [-Mode play/pause/resume] [-Song song]
+	#songControl [-Mode play/pause/resume/search] [-Song song/-Search query
 
 
 Add-Type -AssemblyName presentationCore
