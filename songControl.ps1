@@ -13,7 +13,7 @@
 #3 re-open powershell again
 
 #USAGE:
-	#NOTE: This searches your users music folder
+	#NOTE: This searches in your users music folder
 	#only put the file name an extension
 
 	#songControl [-Mode play/pause/resume/search] [-Song song/-Search query]
